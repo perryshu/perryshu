@@ -7,7 +7,6 @@ You can click the Preview link to take a look at your changes.
 Perry Shu
 CS @ University of Tennessee
 
-C++, HTML, CSS, JS, Java, SQL
+C++, C, HTML, CSS, JS, Java, Python
 Photoshop, Premiere, Lightroom, After Effects
-VS Code, Vim, NeoVim, Eclipse for Java
-Linux, Windows, Git
+
