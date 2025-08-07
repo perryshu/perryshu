@@ -7,6 +7,6 @@ You can click the Preview link to take a look at your changes.
 Perry Shu
 CS @ University of Tennessee
 
-C++, C, HTML, CSS, JS, Java, Python
+C++, C, HTML, CSS, JS, Java, Python, BigQuery, SAS
 Photoshop, Premiere, Lightroom, After Effects
 
